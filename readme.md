@@ -22,3 +22,8 @@ Installieren der Abhängigkeiten, die in der Datei
 ## Export von Markdown (.md) Dateien als PDF
 Man kann Markdown-Dateien als PDF rendern.
 VS-Code Extension `Markdown PDF` installieren. Dann per Rechtsklick `Export als PDF`.
+
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "bob"

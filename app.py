@@ -17,6 +17,7 @@ from library import infos
 
 
 def main():
+    # gebe die Infos für das OS aus
     print("*" * 40)
     print("System Infos")
     print(infos.computer_name())  # data
