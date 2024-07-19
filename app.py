@@ -1,6 +1,6 @@
 """
 Einstiegs-Datei in das Machine-Projekt
-Informationen über das Betriebssystem mit dem platform - Modul
+Informationen über das Betriebssystem mit dem platform - Modul x
 """
 
 # import this  ZEN of Python
