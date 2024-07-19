@@ -1,0 +1,30 @@
+Administrator@data MINGW64 ~/wbs_python_kurs_neu
+$ cd funktionen_module/tag_7
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7
+$ ls
+git.md  git.pdf  machine_project/
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7
+$ cd machine_project/
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7/machine_project (master)
+$ git remote add origin https://github.com/zorcexe/machine_project.git
+
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7/machine_project (master)
+$ git branch
+* master
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7/machine_project (master)
+$ git branch -M main
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7/machine_project (main)
+$ git branch
+* main
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7/machine_project (main)
+$ ^C
+
+Administrator@data MINGW64 ~/wbs_python_kurs_neu/funktionen_module/tag_7/machine_project (main)
+$ git push -u origin main
